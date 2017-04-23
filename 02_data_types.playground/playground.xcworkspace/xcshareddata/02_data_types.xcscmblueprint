@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "018D96CF56BDBD5CDF6AAB6E03F20B03C92037F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "018D96CF56BDBD5CDF6AAB6E03F20B03C92037F2" : 9223372036854775807,
+    "F6DD4CD2B68CE5B3B96F0841AB7EF6E98E50FD14" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82C7649A-46DE-4D2F-82BB-AB2DE5C0CFFA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "018D96CF56BDBD5CDF6AAB6E03F20B03C92037F2" : "swift-for-dennis\/",
+    "F6DD4CD2B68CE5B3B96F0841AB7EF6E98E50FD14" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "02_data_types",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "02_data_types.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/touchingdeveloper\/swift-for-dennis.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "018D96CF56BDBD5CDF6AAB6E03F20B03C92037F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/touchingdeveloper\/swift-for-dennis.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F6DD4CD2B68CE5B3B96F0841AB7EF6E98E50FD14"
+    }
+  ]
+}
